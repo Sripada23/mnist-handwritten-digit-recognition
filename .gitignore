@@ -1,0 +1,9 @@
+# Ignore dataset files
+*.csv
+
+# Ignore generated image folders
+input_images/
+output_images/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
